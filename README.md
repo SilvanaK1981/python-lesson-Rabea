@@ -1,3 +1,4 @@
-# Mein erste Git Repositorium
+# Mein erstes Git Repositorium
 
 Meine Jupyter Notebooks.
+- Author: Rabea Müller
